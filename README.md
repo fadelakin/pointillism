@@ -4,8 +4,8 @@ Pointillism is a processing program that replicates a picture with different col
 
 ### Before Pointillism
 
-![Before Image](https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_86338/w3bF?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1386874436&Signature=55SAGApTBAhEWDtguG4uFk0h6Gc%3D&response-content-disposition=inline%3B%20filename%3DScreen%2520Shot%25202013-12-12%2520at%252012.53.45%2520PM.png%3B%20filename%2A%3DUTF-8%2527%2527Screen%2520Shot%25202013-12-12%2520at%252012.53.45%2520PM.png "Before Image")
+![Before Image](http://i.imgur.com/cMm66LD.png "Before Image")
 
 ### After Pointillism
 
-![After Image](https://s3-us-west-2.amazonaws.com/droplr.storage/files/acc_86338/kuPR?AWSAccessKeyId=AKIAJSVQN3Z4K7MT5U2A&Expires=1386874707&Signature=J0RsWlaqrrdm6%2BSGa3smOtYPanI%3D&response-content-disposition=inline%3B%20filename%3DScreen%2520Shot%25202013-12-12%2520at%252012.58.13%2520PM.png%3B%20filename%2A%3DUTF-8%2527%2527Screen%2520Shot%25202013-12-12%2520at%252012.58.13%2520PM.png "After Image")
+![After Image](http://i.imgur.com/3V8eCZp.png "After Image")
