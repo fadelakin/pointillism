@@ -3,13 +3,13 @@ int smallPoint, largePoint;
 
 void setup() {
   // change the size to your pictures dimensions
-  size(500, 332);
+  size(1024, 660);
   
   // change ("img.jpg"); to your own image that you put in the root folder
   // or you can change it to any of the other images included
-  img = loadImage("img.jpg");
-  smallPoint = 4;
-  largePoint = 40;
+  img = loadImage("a4e30.jpg");
+  smallPoint = 1;
+  largePoint = 100;
   imageMode(CENTER);
   noStroke();
   background(255);
