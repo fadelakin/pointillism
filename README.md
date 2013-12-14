@@ -6,6 +6,8 @@ The size of the dots are controlled by where your mouse is on the screen. Upper 
 
 Also the speed at the which the dots appear on your screen is controlled by the mouse. Move your mouse to the top and the dots appear slowly. Move your mouse to the bottom and the dots appear quickly.
 
+Use any of the images included in the root folder to play around with the program
+
 ### Before Pointillism
 
 ![Before Image](http://i.imgur.com/cMm66LD.png "Before Image")
