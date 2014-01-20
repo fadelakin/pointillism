@@ -7,9 +7,9 @@ void setup() {
   
   // change ("img.jpg"); to your own image that you put in the root folder
   // or you can change it to any of the other images included
-  img = loadImage("a4e30.jpg");
+  img = loadImage("img.jpg");
   smallPoint = 1;
-  largePoint = 100;
+  largePoint = 50;
   imageMode(CENTER);
   noStroke();
   background(255);
