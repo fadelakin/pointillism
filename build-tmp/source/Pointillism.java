@@ -19,13 +19,22 @@ int smallPoint, largePoint;
 
 public void setup() {
   // change the size to your pictures dimensions
-  size(1024, 660);
+  size(1200, 800);
   
   // change ("img.jpg"); to your own image that you put in the root folder
   // or you can change it to any of the other images included
-  img = loadImage("img.jpg");
-  smallPoint = 1;
-  largePoint = 50;
+
+  // DOTS TAKE TOO LONG TO POPULATE
+  
+  // TODO
+  // MAYBE IMPLEMENT A METHOD WHERE THE PROGRAM
+  // TAKES THE PICTURE AND RESIZES IT TO FIT THE WINDOW
+  // CHANGE ALGORITHM TO INCREASE SPEED TIME
+
+
+  img = loadImage("glass.jpg");
+  smallPoint = 25;
+  largePoint = 100;
   imageMode(CENTER);
   noStroke();
   background(255);
